@@ -1,1 +1,1 @@
-# lead-score-case study
+# Lead Score-Case Study
